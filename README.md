@@ -3,7 +3,7 @@
 Bot Telegram untuk menyimpan Postingan atau File yang Diakses melalui Link Khusus.
 Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
 File Sharing [Click Di Sini](
-https://github.com/Dax083/filesharee
+https://github.com/Sherinasaputri/filesharee
 )
 ##
 
@@ -28,7 +28,7 @@ https://github.com/Dax083/filesharee
 
 #### Deploy in your VPS
 ````bash
-git https://github.com/Dax083/filesharee
+git https://github.com/Sherinasaputri/filesharee
 cd FileSharing-Restu
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
